@@ -813,6 +813,11 @@ hash = "d3f1d70958b437490de965ab3e9f2b70a04900c576ccfcc29905aea078c67251"
 metafile = true
 
 [[files]]
+file = "mods/dead-reckoning.pw.toml"
+hash = "a09cc1968979c79b1a6e85bea0f669163b6ee223ab7adf565af34c5e1ef6fb08"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "eb717689205472c2579d8c6900c64183d5feb2b5d6e05063a5ed0202cab9717d"
 metafile = true
@@ -1053,6 +1058,11 @@ hash = "f0302803c0685ab563b11e93b7bda534681b8c1a7b67dd0431e18c9df645bf9d"
 metafile = true
 
 [[files]]
+file = "mods/loot-journal.pw.toml"
+hash = "c96b9b167b1674d6bb9819d89b4a82ba26b6a953fe68c6e26974c44beb3640fd"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "21e7b044769bec86617cb335296c1ab8c44b2ff374a8c3b214fea8e23466786b"
 metafile = true
@@ -1118,6 +1128,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "41d166680b569e977741c5b2d9410c24402e988dd178894d3982913fa9098876"
 metafile = true
@@ -1140,6 +1155,11 @@ metafile = true
 [[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "b4c3ade8ee945bf9674f74750708762ffe95cec6dea469e8681cc767abd5ad8b"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "babf1b1c64742ec0202fead080dfe6cdd2315a1141369877d79d5669339259dd"
 metafile = true
 
 [[files]]
