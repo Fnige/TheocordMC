@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/fragmentum.pw.toml"
-hash = "6f2d01b3610ae6ebd24ce2fda8cf6d1384f85a34ca81764ae7badf3fc49bf0a0"
+hash = "6debf46da7e4c1f6b03f1c900ee79d2bad6b920bb23013a5f3f97365fc830104"
 metafile = true
 
 [[files]]
