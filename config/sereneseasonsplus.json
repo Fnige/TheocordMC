@@ -1,0 +1,14 @@
+{
+  "useAsync": true,
+  "tickSnowPiller": 20,
+  "tickSnowReplacer": 100,
+  "snowstormEnabled": false,
+  "maxSnowAccumulationLayers": 24,
+  "enableSeasonalDaylightCycle": true,
+  "grassFlowerGrowthEnabled": true,
+  "enableBetterDaysDynamicTimeCompat": true,
+  "customCycleLength": false,
+  "customDayLength": 1.0,
+  "customNightLength": 1.0,
+  "realTimeCanadianSeasons": false
+}

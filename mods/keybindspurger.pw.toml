@@ -1,0 +1,13 @@
+name = "KeybindsPurger"
+filename = "KeybindsPurger-1.4.0-fabric-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iaH7LvLy/versions/cOTHMDRB/KeybindsPurger-1.4.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "70ed6bfc86ea30acadfc292800590fd1908c169d8f9297d6ebfcf335c823abf05b681b75ccd62c3a6aa7a3263461abdfb88327e5bc4aeb4099f77650d3dde4fa"
+
+[update]
+[update.modrinth]
+mod-id = "iaH7LvLy"
+version = "cOTHMDRB"

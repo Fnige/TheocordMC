@@ -1,0 +1,13 @@
+name = "Strongheld"
+filename = "strongheld-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u5gSoHAh/versions/R5nEXb1B/strongheld-1.20.1.jar"
+hash-format = "sha512"
+hash = "e1678877126a6383e533fa04f71e8005da3bcaaebf7a6778bb4c0f53c1a663a4deb6c5b2d6869438d90aabe5c3bc86d19a59bb25f66578de804d65016bf9ddf7"
+
+[update]
+[update.modrinth]
+mod-id = "u5gSoHAh"
+version = "R5nEXb1B"

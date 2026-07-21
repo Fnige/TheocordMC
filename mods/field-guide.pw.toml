@@ -1,0 +1,13 @@
+name = "Field Guide"
+filename = "fieldguide-fabric-1.20.1-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/N0WlP7XK/fieldguide-fabric-1.20.1-1.7.5.jar"
+hash-format = "sha512"
+hash = "6dde42f8d7ccacc3a0da841bace3afb8029dcf13804d75b7009831f425a9bc4f3f1b6f1dffce956f7a4351e1939846f65ebaaa6388b92ff0763a0a9c64533d14"
+
+[update]
+[update.modrinth]
+mod-id = "72RRCWM6"
+version = "N0WlP7XK"

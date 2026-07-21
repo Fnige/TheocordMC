@@ -1,0 +1,10 @@
+["Essence Generation"]
+	essenceBlacklistEnabled = true
+	essenceWhitelist = []
+	essenceBlacklist = []
+	essenceWhitelistEnabled = false
+["Ingredient Generation"]
+	ingredientWhitelistEnabled = false
+	ingredientBlacklist = []
+	ingredientWhitelist = []
+	ingredientBlacklistEnabled = true

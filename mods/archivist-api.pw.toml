@@ -1,0 +1,13 @@
+name = "Archivist"
+filename = "archivist-fabric-1.20.1-1.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/svTEwQMq/versions/z0XU8hDm/archivist-fabric-1.20.1-1.1.12.jar"
+hash-format = "sha512"
+hash = "26c825ec1588b3641992cf86aa39721e3d213b410a528f0c39fba6d2766a73a25054c774c9cdc4231540f5099bcd827f7a6b8b304df9c41caade62054921a65a"
+
+[update]
+[update.modrinth]
+mod-id = "svTEwQMq"
+version = "z0XU8hDm"

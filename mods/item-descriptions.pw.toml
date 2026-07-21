@@ -1,0 +1,13 @@
+name = "Item Descriptions"
+filename = "item-descriptions-2.5.6+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaizcMKP/versions/qtlmdbsT/item-descriptions-2.5.6%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "93fb1fe65df10ad37b6395915378234f27d82a1b43806a52f9332ee66e31a026f2852da3d986ecf3982bc0b9d529560e175f01551d1ddce086c63ed6894a9206"
+
+[update]
+[update.modrinth]
+mod-id = "UaizcMKP"
+version = "qtlmdbsT"

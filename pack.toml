@@ -1,0 +1,13 @@
+name = "TheocordMC-S2"
+author = "Awawawa"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a73e30a4859b60c4398cb73c0a0346aaa0988b80dadf8f1741800cc54f2300e"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"
