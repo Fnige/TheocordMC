@@ -843,6 +843,11 @@ hash = "54ed85b42559773c1d59f774b7d1e17938232b97432b20469ead70d69673b6ab"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "addac47eb8f5cc06cb283831f2f79deec1568a769c65e476401fc7092aa74a94"
 metafile = true
