@@ -948,6 +948,11 @@ hash = "74ce410016c7ae22736bbcf1dc7bea4155de000ace671d59261dd1170e800818"
 metafile = true
 
 [[files]]
+file = "mods/impersonate.pw.toml"
+hash = "81c3305d4610b45f5ea99c1855927e7d962c337c9f6ae98466599925ae0d3486"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -1200,6 +1205,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "c42d307747d88a2088ff06aaaa1a059becb851f92f3875e20191014a79a29d31"
+metafile = true
+
+[[files]]
+file = "mods/sidekick.pw.toml"
+hash = "e3363f718fea7dfb8fe9356f29bdd1ed77d9515742502c50db83ad1c6e71e18a"
 metafile = true
 
 [[files]]
