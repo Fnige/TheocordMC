@@ -1287,8 +1287,8 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/theocord-patches-1.1.0.jar"
-hash = "43065c1ffad8937b0486f0f3a3c016d729fbb2ab7d2b71cd932f2999be44b95d"
+file = "mods/theocord-patches-1.2.0.jar"
+hash = "fd044dc98e02fc08fe06f7e7c38ca69d87e65a7281f44a3cd0c177d29e46441e"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
