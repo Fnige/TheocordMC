@@ -703,11 +703,6 @@ hash = "d94db81ebe9a61f27058d45772b93da1dbb2a51fe9520e8b30b17d57fc970209"
 metafile = true
 
 [[files]]
-file = "mods/arsenal.pw.toml"
-hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
-metafile = true
-
-[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "609bb6f00e92fdd3cfea95034b50a01d8a91e2c76c4457180b138bade5edc532"
 metafile = true
