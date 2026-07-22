@@ -1317,6 +1317,11 @@ hash = "3849385bf4ba4dbcfde401ca1545e16e3bbb0c4fc3afbf3740fe9ebc771754f3"
 metafile = true
 
 [[files]]
+file = "mods/voxeldash.pw.toml"
+hash = "525722b111fb9871f22c4996a58ad328228c0df8042286683cb5151a422f238a"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true

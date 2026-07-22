@@ -1,0 +1,13 @@
+name = "VoxelDash"
+filename = "voxeldash-fabric20-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PkDFalN3/versions/6ZMu4qcP/voxeldash-fabric20-1.2.0.jar"
+hash-format = "sha512"
+hash = "d7145d930d6e2557653954657c8e108fb203f108f1a779522b1a7dcf5c7a87094f4219e4640867c7ab1e85902bc911e4cd91380ef58d66767be07188b2e462e0"
+
+[update]
+[update.modrinth]
+mod-id = "PkDFalN3"
+version = "6ZMu4qcP"
