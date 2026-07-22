@@ -703,6 +703,10 @@ hash = "d94db81ebe9a61f27058d45772b93da1dbb2a51fe9520e8b30b17d57fc970209"
 metafile = true
 
 [[files]]
+file = "mods/arsenal-0.1.5-1.20.1.jar"
+hash = "2d8d51d22e609939a27685397778a73f418fea28da603d7eede638756b47f032"
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "609bb6f00e92fdd3cfea95034b50a01d8a91e2c76c4457180b138bade5edc532"
 metafile = true
