@@ -848,6 +848,11 @@ hash = "3906777e85a9dd97f5629c6a7c9d67f203f77d0102394b2133d7c014759db1a3"
 metafile = true
 
 [[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
+metafile = true
+
+[[files]]
 file = "mods/enderpearl-backport.pw.toml"
 hash = "4ba4786104007140af7a0441fd9c22a14b167fdb34497586dc13ffb1202eb43a"
 metafile = true
