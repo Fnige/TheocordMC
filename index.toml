@@ -1298,6 +1298,11 @@ hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "82f2482d9c8e39dbdc8cf303866d7fb087861aec2a0b5564ce7fc37caf274750"
 metafile = true
