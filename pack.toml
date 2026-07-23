@@ -1,12 +1,12 @@
 name = "TheocordMC-S2"
 author = "Comet_System & FractalGeodes"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6c90ab348003a4a592c466e2d6d4cb27036557877059f67f14494b4cf0522ac7"
+hash = "d36d906f48b54bf7946e62db2aa30022818c4868b9c92a28109f85add6a63e18"
 
 [versions]
 fabric = "0.19.3"
