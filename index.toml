@@ -598,7 +598,7 @@ hash = "e2c47efa824627c3a204694b65f0054ba5c4d119b7008be1129b746673bdaee1"
 
 [[files]]
 file = "config/vinery.json"
-hash = "8f1ff306405c71e61c3bb830b3fbbc195f761cbf89418fd5a339f3f512ee54c5"
+hash = "4814b6f5b1a467202ab77cfc5b1339d4986b64dafc97f9b2311f42964e4613ca"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"

@@ -12,8 +12,8 @@
   "items": {
     "wine": {
       "startDuration": 1800,
-      "maxDuration": 15000,
-      "maxLevel": 5,
+      "maxDuration": 1800,
+      "maxLevel": 2,
       "durationPerYear": 200,
       "daysPerYear": 24,
       "yearsPerEffectLevel": 6
