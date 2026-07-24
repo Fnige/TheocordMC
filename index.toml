@@ -1252,6 +1252,11 @@ hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/sparkweave.pw.toml"
 hash = "8408c021cf9fc2fed7b6322cdd17d8654a9703855fd3e35487e516a4b30eb30c"
 metafile = true
