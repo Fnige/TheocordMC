@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/impersonate.pw.toml"
-hash = "81c3305d4610b45f5ea99c1855927e7d962c337c9f6ae98466599925ae0d3486"
+hash = "c1905ac2cfd3cdc90d18818fb878a2544e4d5b653d6388637dc446e921e3a648"
 metafile = true
 
 [[files]]
