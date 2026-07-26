@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/workspace.xml"
-hash = "0496e7569f798495b47b58f2e7256b71d99835bb0af54705ab9165baa2849b6d"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
