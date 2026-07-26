@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/workspace.xml"
+hash = "0496e7569f798495b47b58f2e7256b71d99835bb0af54705ab9165baa2849b6d"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
@@ -1292,8 +1296,8 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
-file = "mods/theocord-patches-1.3.0.jar"
-hash = "50d2f85e965fa2572a6a792dcc284e1f672471aa8c7d8060fbb9a6936edd9f07"
+file = "mods/theocord-patches-1.4.0.jar"
+hash = "e11dbf0d6efff5a539ca1719616492979a222d79c0b0bee315b59becdd1c1c16"
 
 [[files]]
 file = "mods/tidal-towns.pw.toml"
