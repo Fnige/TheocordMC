@@ -942,6 +942,11 @@ hash = "bdc2ffec4ec1ac56c72f7a84a442ed21804c9abca6f643ed705e84cc6398a03f"
 metafile = true
 
 [[files]]
+file = "mods/ibe-editor.pw.toml"
+hash = "57bce829045e2c817375cb91bf83b2d2578aecb9ee06ffe0f22849341fe3d09f"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f5d361718eeb361af9d92aadd042e207b731266c4a82a040e688288d4a1c8153"
 metafile = true
