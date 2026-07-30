@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/ibe-editor.pw.toml"
-hash = "57bce829045e2c817375cb91bf83b2d2578aecb9ee06ffe0f22849341fe3d09f"
+hash = "8f6e8f9d253832c0dec63da92fa177f0cfdc0ebd56ede88c4c637153a64b9639"
 metafile = true
 
 [[files]]
